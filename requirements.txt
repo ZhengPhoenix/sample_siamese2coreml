@@ -1,2 +1,2 @@
-tensorflow==2.0.0b1
+tensorflow==2.6.4
 coremltools==3.3
